@@ -4,7 +4,7 @@
 #include <cstring>
 
 #include "lzw_streambase.h"
-#include "lzw-b.h"
+#include "lzw-a.h"
 #include "lzw.h"
 
 
